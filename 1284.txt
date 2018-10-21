@@ -1585,7 +1585,7 @@ his war tank, his giant cannon, his wonderful searchlight and other
 machines.
 
 "And," mused Tom, as he sat at his work table with pencil and paper
-before him, "since this is a problem in acoustics, I had best begin. I
+before him, "since this is a problem in acoustics, I had best begin I
 suppose by going back to first principles, and after determining what
 makes an aeroplane engine noisy, try to figure out how to make it
 quiet. Now as to the first, the principle causes of noise are--"
